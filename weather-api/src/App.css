@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.lists {
+  list-style: none;
+  font-size: 24px;
+}
+.city {
+  text-transform: capitalize;
+  color: grey;
+  font-weight: bold;
+  opacity: 0.7;
+}
