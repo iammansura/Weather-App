@@ -7,6 +7,13 @@ function App() {
       <h1>Weather App</h1>
 
       <Searchcity />
+
+      <footer>
+        <a href="https://github.com/iammansura/Weather-App" target="-blank">
+          Opne-source code,
+        </a>{' '}
+        by Mansura Akter
+      </footer>
     </div>
   )
 }
